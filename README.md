@@ -1,2 +1,3 @@
 # hello-world
-First repository in GitHub
+First repository in GitHub.
+Getting started with branches.
